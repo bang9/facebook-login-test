@@ -26,7 +26,7 @@
 ### STEP3. Setting for using Facebook SDK
 > **First, you make your facebook app and following this** <br/>
 > * Facebook Developers (https://developers.facebook.com/quickstarts/?platform=android) <br/>
-> * react-native-fbsdk github (https://github.com/facebook/react-native-fbsdk) <br/>
+> * GitHub react-native-fbsdk (https://github.com/facebook/react-native-fbsdk) <br/>
 
 ![img2](./images/img2.JPG) <br/>
 ![img3](./images/img3.JPG) <br/>
