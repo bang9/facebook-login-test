@@ -24,9 +24,8 @@
 <br/>
 
 ### STEP3. Setting for using Facebook SDK
-* Facebook Developers (https://developers.facebook.com/quickstarts/?platform=android)
-
 > **First, you make your facebook app and following this** <br/>
+> * Facebook Developers (https://developers.facebook.com/quickstarts/?platform=android) <br/>
 
 ![img2](./images/img2.JPG) <br/>
 ![img3](./images/img3.JPG) <br/>
