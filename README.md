@@ -15,7 +15,7 @@
 
     react-native link react-native-fbsdk
 
-![img1](./images/img1.jpg)
+![img1](./images/img1.JPG)
 
 <br/>
 
@@ -27,9 +27,9 @@
 * Facebook Developers (https://developers.facebook.com/quickstarts/?platform=android)
 
 >First, you make your facebook app and following this <br/>
-![img2](./images/img2.jpg) <br/>
-![img3](./images/img3.jpg) <br/>
-![img4](./images/img4.jpg) <br/>
+![img2](./images/img2.JPG) <br/>
+![img3](./images/img3.JPG) <br/>
+![img4](./images/img4.JPG) <br/>
 
 <br/>
 
