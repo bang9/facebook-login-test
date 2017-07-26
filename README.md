@@ -3,7 +3,7 @@
 
 ### STEP1. Install react-native-fbsdk
     npm install --save react-native-fbsdk@0.6.0
-> ###### _react-native-fbsdk@0.6.1 an error occured when linking_
+> ###### _react-native-fbsdk@0.6.1 an error occur when linking_
 
 <br/>
 
